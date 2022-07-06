@@ -3,8 +3,8 @@ layout: default
 ---
 <style>
   .z_title{
-    color:#267CB9;
-    font-size:16px;
+    color:#3c3c3c;
+    font-size:15px;
   }
 </style>
 ## 黄鹏来
