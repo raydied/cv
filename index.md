@@ -4,7 +4,7 @@ layout: default
 
 ## 黄鹏来
 
-130 0612 3773       [raydied@qq.com](mailto:raydied@qq.com)
+130 0612 3773 &nbsp;&nbsp;&nbsp; [raydied@qq.com](mailto:raydied@qq.com)
 
 211 本科，工作经验 4 年+，**BIM工程师/技术负责人**，中建 + 互联网的工作经历。
 - 善于使用 Dynamo，减少装配式建筑的重复性建模工作；
@@ -48,6 +48,7 @@ layout: default
 - MEP 深化工作，问题报告、管综深化、出图。
 - 人员培训
 
+---
 
 ### 项目经验
 
@@ -65,9 +66,9 @@ layout: default
 |上海企华医院项目|2018.12~2019.05|MEP深化与交底|
 |阿里巴巴数据中心项目|2018.06~2018.11|MEP深化与交底|
 
----
+<br>
 
 ### 教育
 
-- 2014.09 ~ 2018.06            中国地质大学(武汉)           全日制本科            石油工程
+2014.09 ~ 2018.06 &emsp;&emsp;&emsp;&emsp; **中国地质大学(武汉)** &emsp;&emsp;&emsp;&emsp; 全日制本科 &emsp;&emsp;&emsp;&emsp; 石油工程
   
