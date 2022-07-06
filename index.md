@@ -14,7 +14,7 @@ layout: default
 
 ---
 
-### [近期作品](https://space.bilibili.com/31840919)
+### 近期作品
 - [Fuzor作品](https://www.bilibili.com/video/BV1zL4y1J71L/)
 - [Lumion作品](https://www.bilibili.com/video/BV1hb4y1Z7q2/)
 - [倾斜摄影作品](https://loglist.github.io/storage/html/3DViewer/App/)
@@ -25,7 +25,7 @@ layout: default
 ### 职场回顾
 
 
-**2020.11 ~ 2022.03            中铁建设华东工程有限公司            BIM 中心            BIM 土建工程师**
+[2020.11 ~ 2022.03]()&emsp;&emsp;&emsp;&emsp;[中铁建设华东工程有限公司]()&emsp;&emsp;&emsp;&emsp;[BIM 中心]()&emsp;&emsp;&emsp;&emsp;[BIM 项目负责人]()
 
 - 土建、机电专业建模，包括 Revit 主体模型、**Rhino** 幕墙模型、Tekla钢结构模型；
 - 独立负责BIM项目，满足施工现场 BIM 需求，完成合同履约；
@@ -34,7 +34,7 @@ layout: default
 - 3D打印。
   
 
-**2020.03 ~ 2020.10            中嘉数据有限公司            数据中心            技术负责人**
+[2020.03 ~ 2020.10]()&emsp;&emsp;&emsp;&emsp;[中嘉数据有限公司]()&emsp;&emsp;&emsp;&emsp;[数据中心]()&emsp;&emsp;&emsp;&emsp;[技术负责人]()
 
 - 设计阶段 BIM 的建筑表现工作，Lumion 动画制作；
 - 编写 BIM 服务合同、BIM 技术方案。
@@ -42,7 +42,7 @@ layout: default
 - 服务器硬件配置与采购。
 
 
-**2018.03 ~ 2019.06            中建一局集团安装工程有限公司            华东总部            BIM 工程师**
+[2018.03 ~ 2019.06]()&emsp;&emsp;&emsp;&emsp;[中建一局集团安装工程有限公司]()&emsp;&emsp;&emsp;&emsp;[华东总部]()&emsp;&emsp;&emsp;&emsp;[BIM 工程师]()
 
 - 使用 Revit 建立 BIM 模型，土建、机电、族。
 - MEP 深化工作，问题报告、管综深化、出图。
