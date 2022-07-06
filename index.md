@@ -25,7 +25,7 @@ layout: default
 ### 职场回顾
 
 
-[2020.11 ~ 2022.03]()&emsp;&emsp;&emsp;&emsp;[中铁建设华东工程有限公司]()&emsp;&emsp;&emsp;&emsp;[BIM 中心]()&emsp;&emsp;&emsp;&emsp;[BIM 项目负责人]()
+[2020.11 ~ 2022.03]()&emsp;&emsp;&emsp;&emsp;[中铁建设华东工程有限公司](/)&emsp;&emsp;&emsp;&emsp;[BIM 中心]()&emsp;&emsp;&emsp;&emsp;[BIM 项目负责人]()
 
 - 土建、机电专业建模，包括 Revit 主体模型、**Rhino** 幕墙模型、Tekla钢结构模型；
 - 独立负责BIM项目，满足施工现场 BIM 需求，完成合同履约；
