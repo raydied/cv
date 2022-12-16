@@ -11,17 +11,15 @@ layout: default
 
 130 0612 3773 &nbsp;&nbsp;&nbsp; [raydied@qq.com](mailto:raydied@qq.com)
 
-211 本科，工作经验 4 年+，**BIM工程师/技术负责人**，中建 + 互联网的工作经历。
-- 善于使用 Dynamo，减少装配式建筑的重复性建模工作；
-- 善于 Rhino 解决 Revit 中的难题，修改甲方的双曲面屋面模型；
-- 擅长使用 Lumion 表达建筑；
-- 使用 Fuzor 检验施工进度计划。
+211 本科，工作经验 5 年+，BIM可视化产品经理，ToB 工作经历。
+- 智慧大屏 **施工进度数据、物资跟踪数据** 三维可视化；
+- 使用 Dynamo 赋予模型参数；
+- 熟悉三维文件，draco压缩。
 
 ---
 
 ### 近期作品
 - [Fuzor作品](https://www.bilibili.com/video/BV1zL4y1J71L/)
-- [Lumion作品](https://www.bilibili.com/video/BV1hb4y1Z7q2/)
 - [倾斜摄影作品](https://loglist.github.io/storage/html/3DViewer/App/)
 
 ---
@@ -31,8 +29,7 @@ layout: default
 <div class='z_title'>2022.03 ~ 至今&emsp;&emsp;&emsp;&emsp;上海中建海外发展&emsp;&emsp;&emsp;&emsp;机电部&emsp;&emsp;&emsp;&emsp;BIM 设计师</div>
 
 - MEP深化；
-- 维护模型的**参数**；
-- 施工图。
+- 维护模型的**参数**。
 
 <div class='z_title'>2020.11 ~ 2022.03&emsp;&emsp;&emsp;&emsp;中铁建设华东&emsp;&emsp;&emsp;&emsp;BIM 中心&emsp;&emsp;&emsp;&emsp;BIM 项目负责人</div>
 
@@ -46,9 +43,8 @@ layout: default
 <div class='z_title'>2020.03 ~ 2020.10&emsp;&emsp;&emsp;&emsp;中嘉数据&emsp;&emsp;&emsp;&emsp;数据中心&emsp;&emsp;&emsp;&emsp;技术负责人</div>
 
 - 设计阶段 BIM 的建筑表现工作，**Lumion** 动画制作；
-- 编写 BIM 服务合同、BIM 技术方案。
-- 施工阶段 BIM 的落地工作，外包单位对接、模型审核、合同交付、节点汇报等。
-- **服务器**硬件配置与采购。
+- 编写 BIM 服务合同、BIM 技术方案；
+- 智慧大屏及**服务器**硬件配置与采购。
 
 
 <div class='z_title'>2018.03 ~ 2019.06&emsp;&emsp;&emsp;&emsp;中建一局安装公司&emsp;&emsp;&emsp;&emsp;华东总部&emsp;&emsp;&emsp;&emsp;BIM 工程师</div>
