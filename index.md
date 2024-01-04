@@ -19,8 +19,8 @@ layout: default
 ---
 
 ### 近期作品
-- [Fuzor作品](https://www.bilibili.com/video/BV1zL4y1J71L/)
-- [倾斜摄影作品](https://loglist.github.io/storage/html/3DViewer/App/)
+- [cesium 模型旋转](https://www.bilibili.com/video/BV1zL4y1J71L/](https://raydied.github.io/cesium/glb/index)
+- [倾斜摄影 online](https://loglist.github.io/storage/html/3DViewer/App/)
 
 ---
 
@@ -36,7 +36,8 @@ layout: default
 - 土建、机电专业建模，包括 Revit 主体模型、**Rhino** 幕墙模型、Tekla钢结构模型；
 - 独立负责BIM项目，满足施工现场 BIM 需求，完成合同履约；
 - 无人机与倾斜摄影模型 Web 部署；
-- 网站建立与维护，撰写新闻稿、 BIM 技术方案等**文字**工作，
+- 网站建立与维护，撰写新闻稿、 BIM 技术方案等**文字**工作；
+- 施工进度模拟，[Fuzor作品](https://www.bilibili.com/video/BV1zL4y1J71L/)；
 - **3D打印**。
   
 
