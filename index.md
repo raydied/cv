@@ -19,7 +19,7 @@ layout: default
 ---
 
 ### 近期作品
-- [cesium 模型旋转](https://www.bilibili.com/video/BV1zL4y1J71L/](https://raydied.github.io/cesium/glb/index)
+- [cesium 模型旋转](https://raydied.github.io/cesium/glb/index)
 - [倾斜摄影 online](https://loglist.github.io/storage/html/3DViewer/App/)
 
 ---
